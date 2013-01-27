@@ -10,11 +10,10 @@ For more information about AppJs, see [AppJs.org](http://www.appjs.org)
 
 ## Quickstart
 
-You can clone this project and simply open your terminal and type in your terminal:
-```./bundle.sh -open```
+Clone ```git clone git://github.com/tmaiaroto/osx-appjs-bootstrap.git``` then bundle and
+launch the default application using ```./bundle.sh --open```
 
-That will bundle and launch the little default application for you, but you really won't see much.
-However, what you will be looking at is actually quite a robust application.
+It doesn't look like much, but it actually quite a robust application.
 Just about anything you can do with Node.js you'll be able to do here. You will be running the
 express framework listening on port 51686. Of course this can be changed along with many other things.
 
